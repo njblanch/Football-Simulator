@@ -1,0 +1,5 @@
+Mechanics:User determines play to make while on offense. Based on chances will result in different outcomes.
+Plays:Only user determined on offense, either run, short pass, medium pass, or hail mary.
+Statistics:Each team has eight given stats, four for offense and four for defense.
+Offensive stats:Given chance that a team makes a play, without consideration of opposing stats.
+Defensive stats:Subtracted from opposite teams baseline stats for making a play.
